@@ -1,0 +1,88 @@
+<num> Number: 265
+
+<title> Topic: Domestic Violence
+
+<num> Number: 270
+
+<title> Topic: Control of Food Supplements
+
+<num> Number: 271
+
+<title> Topic: Solar Power
+
+<num> Number: 275
+
+<title> Topic: Herbal Food Supplements/Natural Health
+
+<num> Number: 288
+
+<title> Topic: Weight Control/Diets
+
+<num> Number: 299
+
+<title> Topic: Impact on local economies of military downsizing
+
+<num> Number: 304
+
+<title> Topic: Endangered Species (Mammals)
+
+<num> Number: 307
+
+<title> Topic: New Hydroelectric Projects
+
+<num> Number: 314
+
+<title> Topic: Marine Vegetation
+
+<num> Number: 332
+
+<title> Topic: Income Tax Evasion
+
+<num> Number: 341
+
+<title> Topic: Airport Security
+
+<num> Number: 349
+
+<title> Topic: Metabolism
+
+<num> Number: 350
+
+<title> Topic: Health and Computer Terminals
+
+<num> Number: 353
+
+<title> Topic: Antarctica exploration
+
+<num> Number: 366
+
+<title> Topic: commercial cyanide uses
+
+<num> Number: 370
+
+<title> Topic: food/drug laws
+
+<num> Number: 371
+
+<title> Topic: health insurance holistic
+
+<num> Number: 372
+
+<title> Topic: Native American casino
+
+<num> Number: 373
+
+<title> Topic: encryption equipment export
+
+<num> Number: 377
+
+<title> Topic: cigar smoking
+
+<num> Number: 390
+
+<title> Topic: orphan drugs
+
+<num> Number: 396
+
+<title> Topic: sick building syndrome
+

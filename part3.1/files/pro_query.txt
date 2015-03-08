@@ -1,0 +1,176 @@
+<num> Number: 265
+
+<title> Topic: Domestic Violence
+
+<desc> Description:
+
+Document will report on domestic violence in the U.S.
+
+<num> Number: 270
+
+<title> Topic: Control of Food Supplements
+
+<desc> Description:
+
+Should the Food and Drug Administration (FDA) exercise
+
+<num> Number: 271
+
+<title> Topic: Solar Power
+
+<desc> Description:
+
+To what extent is solar power used as an alternative to
+
+<num> Number: 275
+
+<title> Topic: Herbal Food Supplements/Natural Health
+
+<desc> Description:
+
+Evidence indicating that herbal food supplements or
+
+<num> Number: 288
+
+<title> Topic: Weight Control/Diets
+
+<desc> Description:
+
+Document will report on weight control and diets in
+
+<num> Number: 299
+
+<title> Topic: Impact on local economies of military downsizing
+
+<desc> Description:
+
+What has been the impact on local economies caused by U.S.
+
+<num> Number: 304
+
+<title> Topic: Endangered Species (Mammals)
+
+<desc> Description:
+
+Compile a list of mammals that are considered to be endangered,
+
+<num> Number: 307
+
+<title> Topic: New Hydroelectric Projects
+
+<desc> Description:
+
+Identify hydroelectric projects proposed or under construction by
+
+<num> Number: 314
+
+<title> Topic: Marine Vegetation
+
+<desc> Description:
+
+Commercial harvesting of marine vegetation such as
+
+<num> Number: 332
+
+<title> Topic: Income Tax Evasion
+
+<desc> Description:
+
+This query is looking for investigations that have
+
+<num> Number: 341
+
+<title> Topic: Airport Security
+
+<desc> Description:
+
+A relevant document would discuss how effective
+
+<num> Number: 349
+
+<title> Topic: Metabolism
+
+<desc> Description:
+
+Document will discuss the chemical reactions
+
+<num> Number: 350
+
+<title> Topic: Health and Computer Terminals
+
+<desc> Description:
+
+Is it hazardous to the health of individuals to	work
+
+<num> Number: 353
+
+<title> Topic: Antarctica exploration
+
+<desc> Description:
+
+Identify systematic explorations and scientific investigations
+
+<num> Number: 366
+
+<title> Topic: commercial cyanide uses
+
+<desc> Description:
+
+What are the industrial or commercial uses of
+
+<num> Number: 370
+
+<title> Topic: food/drug laws
+
+<desc> Description:
+
+What are the laws dealing with the quality and processing
+
+<num> Number: 371
+
+<title> Topic: health insurance holistic
+
+<desc> Description:
+
+What is the extent of health insurance coverage of
+
+<num> Number: 372
+
+<title> Topic: Native American casino
+
+<desc> Description:
+
+Identify documents that discuss the growth of Native
+
+<num> Number: 373
+
+<title> Topic: encryption equipment export
+
+<desc> Description:
+
+Identify documents that discuss the concerns of
+
+<num> Number: 377
+
+<title> Topic: cigar smoking
+
+<desc> Description:
+
+Identify documents that discuss the renewed
+
+<num> Number: 390
+
+<title> Topic: orphan drugs
+
+<desc> Description:
+
+Find documents that discuss issues associated with so-called
+
+<num> Number: 396
+
+<title> Topic: sick building syndrome
+
+<desc> Description:
+
+Identify documents that discuss sick building syndrome or
+
